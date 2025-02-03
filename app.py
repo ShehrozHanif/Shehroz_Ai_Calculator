@@ -74,12 +74,12 @@ def give_social_accounts(input_str: str = "") -> str:
     print("="*40)
     return (
         """
-        Hasnain's Linkedin: https://www.linkedin.com/in/shehroz-hanif-60441727a/
-        Hasnain's Github: https://github.com/ShehrozHanif
-        Hasnain's Instagram: https://www.instagram.com/the.realshehroz/
-        Hasnain's Facebook Profile: https://www.facebook.com/muhammad.shehroz.357284
-        Hasnain's Email Address: Shehrozhanif18@gmail.com
-        Hasnain's Contact Number: 03062151026
+        Shehroz Linkedin: https://www.linkedin.com/in/shehroz-hanif-60441727a/
+        Shehroz Github: https://github.com/ShehrozHanif
+        Shehroz Instagram: https://www.instagram.com/the.realshehroz/
+        Shehroz Facebook Profile: https://www.facebook.com/muhammad.shehroz.357284
+        Shehroz Email Address: Shehrozhanif18@gmail.com
+        Shehroz Contact Number: 03062151026
         """
     )
 
@@ -123,7 +123,7 @@ agent = initialize_agent(
 
 st.title("Shehroz Hanif AI Calculator Agent")
 st.title("AI-Based Calculator Agent")
-st.write("Welcome to Hasnain's Coding World!")
+st.write("Welcome to Shehroz Coding World!")
 
 # Suggested queries
 suggested_queries = [
@@ -132,7 +132,7 @@ suggested_queries = [
     "Can you subtract 10 from 20?",
     "Who is Hasnain?",
     "Who is Founder/Developer/Creator?",
-    "Give me Hasnain's social accounts.",
+    "Give me Shehroz social accounts.",
     "Multiply 7 and 8.",
     "Divide 100 by 4.",
     "Perform multiple operations like add 5 and 3, then multiply by 2."
