@@ -55,7 +55,7 @@ def creator(input_str: str = "") -> str:
     print("="*40)
     return (
         """I am a Calculator Agent Developed By Shehroz Hanif.
-        If You Want to know About Hasnain Ali Then Type Who Is Shehroz Hanif
+        If You Want to know About Shehroz Hanif Ali Then Type Who Is Shehroz Hanif
     """
     )
 
@@ -130,7 +130,7 @@ suggested_queries = [
     "What is 5 + 3?",
     "What is 3.6 percent Of 69 And Multiply The Output by 6.",
     "Can you subtract 10 from 20?",
-    "Who is Hasnain?",
+    "Who is Shehroz Hanif?",
     "Who is Founder/Developer/Creator?",
     "Give me Shehroz social accounts.",
     "Multiply 7 and 8.",
